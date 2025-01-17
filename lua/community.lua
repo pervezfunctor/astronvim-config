@@ -22,6 +22,7 @@ return {
   { import = "astrocommunity.terminal-integration.vim-tmux-navigator" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.utility.hover-nvim" },
+  { import = "astrocommunity.recipes.vscode" },
 
   -- import/override with your plugins folder
 }
